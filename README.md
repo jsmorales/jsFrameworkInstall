@@ -2,7 +2,7 @@
 
 <h2>Requisitos para instalar el Framework</h2>
 
-<p>Este Instalador solo funciona para sistemas linux debian, debe tener instaladas las siguientes aplicaciones:</p>
+<p>Este Instalador solo funciona para sistemas linux debian y arch, debe tener instaladas las siguientes aplicaciones:</p>
 <br>
 <ul>
   <li>Git</li>
